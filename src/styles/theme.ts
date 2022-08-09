@@ -20,7 +20,7 @@ fonts: {
     body: 'Roboto',   
     
 },
-  styled: {
+  styles: {
     global: {
         body: {
             bg: 'gray.900',
